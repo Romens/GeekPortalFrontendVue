@@ -1,0 +1,145 @@
+{
+  "navbar": {
+    "home": "Home",
+    "places": "Places",
+    "map": "Map",
+    "about": "About",
+    "language": "Language",
+    "admin": "Admin Panel",
+    "add_place": "Add Place",
+    "profile_settings": "Profile Settings"
+  },
+  "home_view": {
+    "info_message": "Just playing around here, as soon as Tyoma finishes CI/CD - we'll start working!",
+    "welcome_title": "Welcome to GeekPortal!",
+    "welcome_subtitle": "You are on the main page. Here you will find the best geek places in your city.",
+    "categories": {
+      "cafe": {
+        "title": "Cafes",
+        "description": "Cozy places with thematic interiors."
+      },
+      "shops": {
+        "title": "Shops",
+        "description": "Shops with merch, games, and gadgets."
+      },
+      "coworking": {
+        "title": "Coworkings",
+        "description": "Places for work and geek meetups."
+      }
+    },
+    "jumbotron": {
+      "title": "Find the best geek places with GeekPortal!",
+      "subtitle": "Discover unique places for geeks in your city. Cafes, bars, shops, and more — all in one place.",
+      "search_button": "Start Search",
+      "learn_more_button": "Learn More"
+    }
+  },
+  "map_view": {
+    "title": "Geek Places Map",
+    "subtitle": "Explore geek places on the map.",
+    "cities": {
+      "msk": "Moscow",
+      "spb": "Saint Petersburg"
+    },
+    "map_types": {
+      "osm": "OpenStreetMap",
+      "2gis": "2GIS",
+      "carto-dark": "CartoDB Dark",
+      "google": "Google Maps"
+    }
+  },
+  "about_view": {
+    "title": "About the Project",
+    "subtitle": "You are on the \"About\" page. Learn more about GeekPortal and our mission.",
+    "for_geeks": {
+      "title": "For Geeks",
+      "items": {
+        "find_places": "Find thematic places based on your interests",
+        "connect": "Connect with like-minded people in your city",
+        "interactive_map": "Interactive map with place history"
+      }
+    },
+    "for_owners": {
+      "title": "For Owners",
+      "items": {
+        "free_advertising": "Free advertising for your venue",
+        "analytics": "Visitor analytics",
+        "feedback": "Community feedback"
+      }
+    },
+    "description": "<b>GeekPortal</b> is a catalog of geek places for technology, gaming, science, and pop-culture enthusiasts. We help you find the best places in your city.",
+    "principles": {
+      "title": "Core Principles of GeekPortal",
+      "items": {
+        "free_for_users": "GeekPortal is free for users.",
+        "free_for_places": "GeekPortal is always free for listing geek places.",
+        "preserve_memory": "GeekPortal is created to preserve the memory of closed geek places and develop current ones.",
+        "find_like_minded": "GeekPortal helps people find like-minded individuals.",
+        "no_sales": "GeekPortal does not sell anything."
+      }
+    },
+    "support": {
+      "title": "Project Support",
+      "text": "You can support GeekPortal by spreading the word or subscribing to the developer's Boosty:",
+      "boosty_link": "Developer's Boosty"
+    }
+  },
+  "place_page_view": {
+    "loading": "Loading data...",
+    "like_button": {
+      "default": "{count} people liked this",
+      "liked": "You liked it! ({count} total)"
+    },
+    "visit_button": {
+      "default": "{count} want to visit",
+      "visiting": "You promised to visit ({count} total)"
+    },
+    "contacts": {
+      "title": "Contacts {index}",
+      "email": "Email",
+      "site": "Website",
+      "telephone": "Phone"
+    },
+    "city": {
+      "title": "City"
+    }
+  },
+  "places_view": {
+    "title": "Geek Places",
+    "subtitle": "You are on the \"Geek Places\" page. Explore the best places in your city."
+  },
+  "registration_view": {
+    "username": {
+      "label": "Username",
+      "error": {
+        "length": "Username must be between 4 and 70 characters."
+      }
+    },
+    "email": {
+      "label": "Email",
+      "error": {
+        "invalid": "Please enter a valid email."
+      }
+    },
+    "birthdate": {
+      "label": "Birthdate",
+      "error": {
+        "age": "You must be at least 14 years old."
+      }
+    },
+    "password": {
+      "label": "Password",
+      "error": {
+        "length": "Password must be at least 8 characters.",
+        "special_char": "Password must contain at least one special character."
+      }
+    },
+    "confirm_password": {
+      "label": "Confirm Password",
+      "error": {
+        "mismatch": "Passwords do not match."
+      }
+    },
+    "submit_button": "Register"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "uuid": "123e4567-e89b-12d3-a456-426614174000",
+  "name": {
+    "en": "Cyberpunk Cafe",
+    "ru": "Киберпанк Кафе"
+  },
+  "description": {
+    "en": "A thematic cafe with a cyberpunk atmosphere.",
+    "ru": "Тематическое кафе с атмосферой киберпанка."
+  },
+  "photos": [
+    "/images/cyberpunk1.jpg",
+    "/images/cyberpunk2.jpg"
+  ],
+  "coordinates": {
+    "latitude": 59.9343,
+    "longitude": 30.3351
+  },
+  "city": {
+    "name" : "spb",
+    "front_name" : {
+      "en": "St. Petersburg",
+      "ru": "Санкт-Петербург"
+    }
+  },
+  "seo": {
+    "title": {
+      "en": "Cyberpunk Cafe in St. Petersburg",
+      "ru": "Киберпанк Кафе в Санкт-Петербурге"
+    },
+    "description": {
+      "en": "Visit the unique Cyberpunk Cafe in St. Petersburg.",
+      "ru": "Посетите уникальное Киберпанк Кафе в Санкт-Петербурге."
+    }
+  }
+}

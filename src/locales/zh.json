@@ -1,0 +1,146 @@
+{
+  "navbar": {
+    "home": "首页",
+    "places": "地点",
+    "map": "地图",
+    "about": "关于",
+    "language": "语言",
+    "admin": "管理面板",
+    "add_place": "添加地点",
+    "profile_settings": "个人设置",
+    "profile": "个人资料"
+  },
+  "home_view": {
+    "info_message": "我们正在测试中，一旦Tyoma完成CI/CD - 我们就开始工作！",
+    "welcome_title": "欢迎来到GeekPortal！",
+    "welcome_subtitle": "您正在主页上。在这里，您可以找到您所在城市最好的极客场所。",
+    "categories": {
+      "cafe": {
+        "title": "咖啡馆",
+        "description": "具有主题装饰的舒适场所。"
+      },
+      "shops": {
+        "title": "商店",
+        "description": "销售周边商品、游戏和电子产品的商店。"
+      },
+      "coworking": {
+        "title": "共享工作空间",
+        "description": "极客工作和会面的场所。"
+      }
+    },
+    "jumbotron": {
+      "title": "使用GeekPortal找到最好的极客场所！",
+      "subtitle": "在您的城市发现独特的极客场所。咖啡馆、酒吧、商店等等 — 一站式服务。",
+      "search_button": "开始搜索",
+      "learn_more_button": "了解更多"
+    }
+  },
+  "map_view": {
+    "title": "极客地点地图",
+    "subtitle": "在地图上探索极客地点。",
+    "cities": {
+      "msk": "莫斯科",
+      "spb": "圣彼得堡"
+    },
+    "map_types": {
+      "osm": "OpenStreetMap",
+      "2gis": "2GIS",
+      "carto-dark": "CartoDB Dark",
+      "google": "Google Maps"
+    }
+  },
+  "about_view": {
+    "title": "关于项目",
+    "subtitle": "您正在\"关于\"页面上。了解更多关于GeekPortal和我们的使命。",
+    "for_geeks": {
+      "title": "对于极客",
+      "items": {
+        "find_places": "根据您的兴趣找到主题场所",
+        "connect": "在您的城市与志同道合的人交流",
+        "interactive_map": "带有场所历史的互动地图"
+      }
+    },
+    "for_owners": {
+      "title": "对于业主",
+      "items": {
+        "free_advertising": "免费为您的场所做广告",
+        "analytics": "访客分析",
+        "feedback": "社区反馈"
+      }
+    },
+    "description": "<b>GeekPortal</b> 是一个为技术、游戏、科学和流行文化爱好者提供的极客地点目录。我们帮助您找到您所在城市的最佳场所。",
+    "principles": {
+      "title": "GeekPortal的核心原则",
+      "items": {
+        "free_for_users": "GeekPortal对用户免费。",
+        "free_for_places": "GeekPortal始终免费列出极客地点。",
+        "preserve_memory": "GeekPortal旨在保存已关闭极客地点的记忆并发展当前的地点。",
+        "find_like_minded": "GeekPortal帮助人们找到志同道合的人。",
+        "no_sales": "GeekPortal不销售任何东西。"
+      }
+    },
+    "support": {
+      "title": "项目支持",
+      "text": "您可以通过传播信息或订阅开发者的Boosty来支持GeekPortal：",
+      "boosty_link": "开发者的Boosty"
+    }
+  },
+  "place_page_view": {
+    "loading": "加载数据中...",
+    "like_button": {
+      "default": "{count} 人喜欢",
+      "liked": "您喜欢！({count} 总计)"
+    },
+    "visit_button": {
+      "default": "{count} 人想参观",
+      "visiting": "您承诺参观 ({count} 总计)"
+    },
+    "contacts": {
+      "title": "联系方式 {index}",
+      "email": "电子邮件",
+      "site": "网站",
+      "telephone": "电话"
+    },
+    "city": {
+      "title": "城市"
+    }
+  },
+  "places_view": {
+    "title": "极客地点",
+    "subtitle": "您正在\"极客地点\"页面上。探索您所在城市的最佳场所。"
+  },
+  "registration_view": {
+    "username": {
+      "label": "用户名",
+      "error": {
+        "length": "用户名必须在4到70个字符之间。"
+      }
+    },
+    "email": {
+      "label": "电子邮件",
+      "error": {
+        "invalid": "请输入有效的电子邮件。"
+      }
+    },
+    "birthdate": {
+      "label": "出生日期",
+      "error": {
+        "age": "您必须年满14岁。"
+      }
+    },
+    "password": {
+      "label": "密码",
+      "error": {
+        "length": "密码必须至少包含8个字符。",
+        "special_char": "密码必须包含至少一个特殊字符。"
+      }
+    },
+    "confirm_password": {
+      "label": "确认密码",
+      "error": {
+        "mismatch": "密码不匹配。"
+      }
+    },
+    "submit_button": "注册"
+  }
+}

@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /*?*
+Disallow: /.htaccess
+Disallow: /.env
+
+Sitemap: https://geekportal.org/sitemap.xml
